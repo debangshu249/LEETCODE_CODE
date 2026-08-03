@@ -32,6 +32,7 @@ All leetcode question
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ All leetcode question
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ All leetcode question
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
