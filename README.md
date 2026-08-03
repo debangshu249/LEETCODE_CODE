@@ -6,6 +6,7 @@ All leetcode question
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1189-maximum-number-of-balloons) |
@@ -31,6 +32,7 @@ All leetcode question
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,9 +44,19 @@ All leetcode question
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
