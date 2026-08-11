@@ -34,6 +34,7 @@ All leetcode question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ All leetcode question
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
