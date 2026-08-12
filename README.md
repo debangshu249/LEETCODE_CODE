@@ -36,6 +36,7 @@ All leetcode question
 | [0189-rotate-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ All leetcode question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,8 @@ All leetcode question
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
