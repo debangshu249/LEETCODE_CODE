@@ -39,6 +39,7 @@ All leetcode question
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ All leetcode question
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
