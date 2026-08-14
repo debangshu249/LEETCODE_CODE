@@ -15,11 +15,11 @@ public:
     st.pop();
 }
             else {
-                return false;
+                return false; //During loop: "Did I find a wrong closing bracket?" → false
             }
         }
         if(!st.empty())
-            return false;
+            return false;  //After loop: "Are any opening brackets still left?" → false
         else 
             return true;    
     }
