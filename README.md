@@ -15,6 +15,7 @@ All leetcode question
 | ------- |
 | [0383-ransom-note](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0409-longest-palindrome) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -78,4 +79,8 @@ All leetcode question
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
