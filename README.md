@@ -13,6 +13,7 @@ All leetcode question
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -82,5 +83,10 @@ All leetcode question
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
