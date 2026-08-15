@@ -9,6 +9,7 @@ All leetcode question
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -39,6 +40,7 @@ All leetcode question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0875-koko-eating-bananas) |
@@ -89,4 +91,8 @@ All leetcode question
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
