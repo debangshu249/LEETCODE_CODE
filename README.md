@@ -10,6 +10,7 @@ All leetcode question
 | [0383-ransom-note](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -44,6 +45,7 @@ All leetcode question
 | [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +97,5 @@ All leetcode question
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
