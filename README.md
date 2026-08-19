@@ -9,6 +9,7 @@ All leetcode question
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1189-maximum-number-of-balloons) |
@@ -41,6 +42,7 @@ All leetcode question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -96,6 +98,7 @@ All leetcode question
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
