@@ -37,6 +37,7 @@ All leetcode question
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -101,4 +102,12 @@ All leetcode question
 | [0525-contiguous-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0974-subarray-sums-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
