@@ -50,6 +50,7 @@ All leetcode question
 | [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,4 +113,5 @@ All leetcode question
 | ------- |
 | [0053-maximum-subarray](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
