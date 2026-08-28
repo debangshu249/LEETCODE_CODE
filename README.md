@@ -43,6 +43,7 @@ All leetcode question
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +67,7 @@ All leetcode question
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -101,6 +103,7 @@ All leetcode question
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -114,4 +117,8 @@ All leetcode question
 | [0053-maximum-subarray](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/debangshu249/LEETCODE_CODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/debangshu249/LEETCODE_CODE/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
